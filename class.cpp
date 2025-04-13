@@ -1,6 +1,6 @@
 #include <iostream> 
 
 int main(){
-    int i = 42; 
-    int *ip = &i; 
+    const int ic = 0;
+    const int *p3;   
 } 
